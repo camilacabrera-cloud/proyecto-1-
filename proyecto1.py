@@ -1,1 +1,3 @@
-print ("hola cami")
+print ("hola cami")  
+print ("chau cami")
+
